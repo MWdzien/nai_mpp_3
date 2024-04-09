@@ -1,8 +1,8 @@
 public class DataEntry {
     private String decisionAttribute;
-    private Double[] attributes;
+    private double[] attributes;
 
-    public DataEntry(String decisionAttribute, Double[] attributes) {
+    public DataEntry(String decisionAttribute, double[] attributes) {
         this.decisionAttribute = decisionAttribute;
         this.attributes = attributes;
     }
@@ -11,7 +11,7 @@ public class DataEntry {
         return decisionAttribute;
     }
 
-    public Double[] getAttributes() {
+    public double[] getAttributes() {
         return attributes;
     }
 
@@ -19,7 +19,7 @@ public class DataEntry {
         this.decisionAttribute = decisionAttribute;
     }
 
-    public void setAttributes(Double[] attributes) {
+    public void setAttributes(double[] attributes) {
         this.attributes = attributes;
     }
 }

@@ -1,0 +1,33 @@
+Med näringskedja menas hur näringsämnen sprids och omvandlas igenom en kedja av organismer (djur, växter och liknande) som äter och/eller äts av varandra i ett ekosystem.
+
+I en mycket abstrakt mening liknar en näringskedja en vanlig kedja. En näringskedja innehåller producenter och konsumenter. Man tänker sig då att varje art i näringskedjan motsvaras av en länk och en art som äts av en annan art motsvarar två länkar som hänger ihop. En viktig skillnad mellan näringskedjor och vanliga kedjor är att näringskedjan börjar i en viss ände (den är riktad) medan början och slut inte kan åtskiljas i vanlig kedja.
+
+I en näringskedja är det ganska lätt att se hur näringsämnen sprids och omvandlas. Spridningen och omvandlingen sker genom att en organism äter en annan och äts av en tredje i näringskedjan. Flera näringskedjor bildar tillsammans en näringsväv.
+
+I varje näringskedja finns en enda rad av organismer där den första äts av den andra, den andra av den tredje, och så vidare. Den sista organismen i kedjan äts inte av någon. Man brukar säga att den sista organismen står högst upp i näringskedjan.
+
+Producenter och konsumenter
+I bottnen av näringskedjan finns producenterna – växter eller plankton. Producenterna kan tillverka sin egen näring. De producerar bland annat socker med hjälp av solljus, koldioxid och vatten. Detta kallas fotosyntes.
+
+Ovanför dessa finns konsumenterna. Konsumenterna äter antingen växter (producenter) eller andra djur. Konsumenter kan vara:
+
+Växtätare (primärkonsumenter) som till exempel hoppkräftor
+Köttätare (sekundärkonsumenter) som till exempel löja
+Köttätare (tredjehandskonsumenter) som till exempel gädda
+Toppkonsumenter (sistahandskonsumenter) som till exempel fiskgjuse
+Köttätare och toppkonsumenter kallas med ett annat ord för rovdjur. Alla producenter och konsumenter bryts ner av nedbrytare. Konsumenter kan ätas upp av asätare. Nedbrytare räknas inte in i näringskedjan, däremot kan asätare ses som toppkonsumenter.
+
+Beroende
+Begreppet näringskedja beskriver beroendet mellan producenter och konsumenter i ett ekosystem. Djur och växter är beroende av varandra. Växtätare behöver äta växter för att överleva och köttätare behöver äta växtätare eller andra köttätare.
+
+Då en art påverkas av miljöfaktorer eller av människans ingrepp, påverkas även de andra arterna i näringskedjan. Om till exempel en växtätare dör i en epidemi ökar kanske antalet växter tillfälligt medan rovdjuren svälter och minskar till antalet.
+
+Förändringar i en näringskedja påverkar andra näringskedjor som ingår i samma näringsväv.
+
+Spridning av miljögifter
+Det är inte bara näringsämnen som sprids i näringskedjan. Även stabila kemiska föreningar som till exempel organiska klorföreningar (bland annat DDT och PCB) och metylkvicksilver sprids från art till art. Arterna har svårt att göra sig av med dessa ämnen då de bland annat är fettlösliga. Därför ackumuleras/anrikas dessa ämnen i näringskedjan. Detta drabbar speciellt fröätande fåglar (växtätare) eller rovfåglar och fiskätare (bland annat toppkonsumenter) som får mycket höga halter av gifterna i sig. Bly från blyhagel sprids också i näringskedjorna och förgiftar änder och svanar. Man brukar allmänt kalla dessa gifter för miljögifter.
+
+Förenklad bild
+De flesta organismer äts av många olika organismer och de flesta organismer som äts av andra organismer äts av många olika organismer. Men i en näringskedja finns endast en ätare för varje organism som äts. På liknande sätt finns för varje ätare bara en organism som den äter med i näringskedjan. Näringskedjan är alltså ett mycket litet utsnitt ur den mycket komplexa världen av ätare och ätna.
+
+De verkliga näringskedjorna är egentligen oändliga och icke-linjära, och de behöver inte börja med producenter. Ekosystem består inte av ensamma näringskedjor utan snarare av ett nät av näringskedjor. Moderna beskrivningar använder därför ofta begreppet näringsväv i stället. En näringsväv beskriver bättre de komplexa nätverk av relationer som finns i ekosystem. En mellanform mellan näringskedja och näringsväv är näringspyramiden, som beskriver den kvantitativa fördelningen mellan arterna i en näringskedja. Begreppet näringspyramid är viktigt för förståelsen för hur gifter ackumuleras och anrikas i ekosystemen och varför särskilt toppkonsumenter drabbas av dessa.

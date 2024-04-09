@@ -1,0 +1,15 @@
+Vypalování optických disků je v informatice proces, při kterém jsou na optický disk zaznamenána data pomocí tzv. vypalovací mechaniky (hovorově vypalovačky). Název má svůj původ v nástroji, jímž se proces zápisu dat provádí (tím je laser), a jeho následcích. V případě, kdy se nejedná o přepisovatelné médium, totiž dochází ke znehodnocení disku — přepis není možný, což optické disky odlišuje od pevných disků nebo páskových jednotek. Další vlastností optických médií je, že standardně se disk vypaluje tak, že se celý jeho obsah zanese souvisle (pokud se však vypalovacím procesem nevyznačí tzv. uzavření disku a kapacita disku není vyčerpána, záznam dalších dat provést možné je[1]).
+
+Vypálit lze jakákoli data, nicméně časté je použít předdefinovaný formát. Díky tomu je následně možné data interpretovat — např. jako souborový systém (počítačem), audio (zvuk) nebo video (jednoúčelovým přehrávačem).
+
+Vypalování se používá pro optické disky CD (médium je CD-R, CD-RW), DVD (médium je DVD-R, DVD+R, DVD-RW, DVD+RW) i Blu-ray.
+
+Přepisování optických disků
+Přepisování optických disků představuje možnost, jak disk vrátit do původního stavu, tzn. odstranit zapsaná data. Přepis není možný standardně; provést jej lze jen u vybraných, principielně dražších médií.
+
+Parametrem vypalovacích mechanik nebývá jen rychlost čtení a rychlost zápisu, ale též rychlost přepisu. Ta bývá menší než rychlost zápisu[2] a udává rychlost zápisu po tzv. rychlém smazání. Rychlé smazání, k němuž existuje alternativa, zvaná úplné smazání, disk k zápisu připraví v řádu několika minut (typicky 2 minuty). Úplné smazání zabere řádově desítky desítky minut (zpravidla 1 hodinu) a na disk umožní znovu zapsat rychlostí zápisu.
+
+Přepisovatelná média
+Přepisovatelná média ve svém označení nesou písmeno W (kupř. CD-RW nebo DVD-RW).
+
+Zvláštním typem optického disku je disk RAM, jenž operaci zápisu staví na úroveň práce s pevnými disky — záznam dat již nemá punc vzácné události v životě disku.

@@ -45,4 +45,8 @@ public class Perceptron {
             if (trained >= entries.size()) break;
         }
     }
+
+    public String getActivationAttribute() {
+        return activationAttribute;
+    }
 }
