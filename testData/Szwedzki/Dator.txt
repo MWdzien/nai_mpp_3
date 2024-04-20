@@ -1,0 +1,89 @@
+En dator (tidigare datamaskin eller matematikmaskin) är en maskin som kan bearbeta data och utföra beräkningar automatiskt, effektivare än vad som kan göras manuellt. Datorn kan bestå av mekaniska, elektroniska, optiska eller andra komponenter och styrs med hjälp av instruktioner (datorprogram) som lagras i dess primärminne. Från början var datorn huvudsakligen ett hjälpmedel för att utföra aritmetiska och andra matematiska beräkningar, men den har senare blivit ett viktigt redskap vid bland annat automatisering av administrativa rutiner, kommunikation, informationslagring och styrning av allehanda industriella och andra slags processer.
+
+I och med elektronikens miniatyrisering har de grundläggande datorkomponenterna (styrenhet, räkneenhet och minne tillsammans med kretsar för kommunikation med omvärlden) kunnat läggas på allt färre kiselplattor. I sin extrema form kan en dator (låt vara med viss begränsad kapacitet) rymmas på en enda kiselplatta, och kallas då enchipsdator.
+
+För gemene man syftar ordet dator oftast på en persondator, men det finns många andra typer av datorer.
+
+Etymologi
+Dator är till formen nomen agentis eller ”agentform” av det latinska ordet dare som betyder ”giva”.[källa behövs] Ordet är en svensk nybildning som inte förekommer i grannspråken eller i latinet, och det skulle alltså betyda ”givare” om det funnits i latinet. På latin finns dock det motsvarande donator, skapat efter sidoformen dono[1] som i sin tur har donum (’gåva’) som ursprung.[2]
+
+År 1948, strax efter andra världskriget, inrättades Matematikmaskinnämnden för att koordinera svensk forskning inom området. Vid den tiden kallades datorer för matematikmaskiner i facktext och elektronhjärnor[3] i populärpress. Under 1950-talet användes även beteckningen siffermaskin.[4] Nämnden sökte en mer hanterlig term än dessa. På förslag 1969 av Börje Langefors,[4] som grundade Institutionen för ADB vid Stockholms universitet, rekommenderade nämnden ordet dator som en nybildning som till formen efterliknar ord som traktor och doktor.
+
+Länge kallades datorn även för datamaskin, eller vardagligt det kortare och förvirrande flertydiga data (lanserat i början av 1960-talet[4]). På 1970-talet ersattes dock denna benämning av ordet dator och slog från 1980-talet igenom. Benämningen ”data” finner man i marknadsföring för datorspel, datorer och komponenter till sådana, samt även i pressen. Den svenska branschorganisationen för producenter och distributörer av dator- och TV-spel har valt att kalla sig för Dataspelsbranschen.
+
+Svenskans grannspråk har olika ord för begreppet. På bokmål och nynorska heter det datamaskin, medan danskan och tyskan valt engelskans computer. Isländskans tölva och färöiskans teldur/telda är egenskapade ord baserade på ord för räkna. På tyska används motsvarande ord Rechner tidigare för stordatorer. I svenskan kom liknande ord att användas för rena räknemaskiner, som i miniräknare.
+
+Polskans komputer och litauiskans kompjūteris är två andra lån från engelskan. I lettiskan konkurrerade dators (efter svenskans dator, föreslaget 1972 av den i Lund verksamme Lettlandsfödde språkvetaren Kārlis Draviņš, 1901–91[5]) med det engelska lånet kompjūters samt det tidigare utbredda ESM (Elektroniska skaitļojamā mašīna, elektronisk räknemaskin); under 2000-talet har det förstnämnda blivit standardbenämning. Estniskans arvuti är ett nyord baserat på arvama (’tänka’; d.v.s. ’tankemaskin’[a]). Finskans tietokone är skapat av orden för ’kunskap’ och ’maskin’.[7]
+
+Historik
+Huvudartikel: Datorhistoria
+Räknemaskiner har funnits i flera hundra år, men det var först på 1900-talet som de blev elektriska.
+
+Föregångare och stickspår
+
+Blaise Pascals räknemaskin.
+Blaise Pascal uppfann 1642 den första mekaniska räknemaskinen, vilken kunde addera och subtrahera och kan ses som en föregångare till datorn. Tre decennier senare konstruerade Gottfried Wilhelm von Leibniz en maskin som dessutom klarade multiplikation och division.
+
+
+Additionskomponent av Charles Babbages differensmaskin, konstruerad efter hans död.
+
+Rekonstruktion av Zuses Z1
+Därefter stagnerade utvecklingen fram till 1820-talet, då Charles Babbage presenterade ritningarna till differensmaskinen, i princip en mekanisk dator vars program var förutbestämt av själva utformningen. Babbage uppfann därefter den analytiska maskinen 1834, en fullt programmerbar mekanisk dator med arbetsminne, processor, hålkortsläsare för inmatning samt utdataenheter för skrift och stansning av hålkort. Ada Lovelace skrev de första datorprogrammen för den analytiska maskinen. Dock led konstruktionen av mekaniska problem och färdigställdes aldrig.
+
+År 1936 konstruerade den tyske ingenjörsstudenten Konrad Zuse den första elektromekaniska datorn, Z1, samt en rad andra datorer baserade på elektromagnetiska reläer. Apparaterna förstördes 1944, när de allierade bombade Berlin och hans verk påverkade därför inte utformningen av senare datorer nämnvärt.
+
+Den första elektroniska datorn, ABC-computer från 1941, utvecklades av John Vincent Atanasoff.
+
+Den brittiska regeringen lät under stor sekretess bygga Colossus för att avkoda Tysklands enigmakrypterade meddelanden, ett arbete som Alan Turing deltog i. Maskinen var i bruk 1943, men påverkade inte heller den övriga utvecklingen, eftersom den var sekretessbelagd i tre decennier.
+
+År 1944 konstruerade Howard Aiken vid Harvarduniversitet i USA den decimala datorn Harvard Mark I, inspirerad av Babbages verk.
+
+Eniac
+Detta avsnitt är en sammanfattning av Eniac.
+
+Eniac.
+John Mauchly, en fysikprofessor vid University of Pennsylvania konstruerade tillsammans med doktoranden Presper Eckert den decimala datorn Eniac på uppdrag av den amerikanska armén för beräkning av projektilbanor. Eniac, som börjat byggas 1943, stod färdig först 1946, när kriget som den var byggd för var över. Datorn, som var baserad på tusentals vakuumrör och reläer, skapade dock stort intresse inom forskarvärlden och utgjorde början på en explosionsartad utveckling. Eniac bestod av cirka 18 000 elektronrör och vägde ungefär 27 ton.
+
+BARK och BESK
+Detta avsnitt är en sammanfattning av BARK.
+Detta avsnitt är en sammanfattning av BESK.
+
+Kontrollpanelen till BESK.
+Sverige låg långt framme under datorns tidiga utveckling. År 1950 var datorn BARK, byggd med telefonreläer, färdig. Efterföljaren BESK, byggd med elektronrör, togs i bruk 1953 och under några veckor var BESK världens snabbaste dator. BARK och BESK konstruerades av Matematikmaskinnämnden.
+
+von Neumann-arkitekturen
+Detta avsnitt är en sammanfattning av von Neumann-arkitekturen.
+John von Neumann, som varit inblandad i eniacprojektet, insåg att i stället för att programmeras genom inställningar av reläer och kabeldragningar skulle datorprogram kunna lagras i datorns minne tillsammans med data. Baserat på detta skapade han designen för IAS-maskinen, som byggdes 1952, och principen användes även i Maurice Wilkes dator Edsac 1949. Sedan dess har von Neumann-arkitekturen varit den rådande principen för utformning av datorer.
+
+Transistorbaserade datorer
+Den första generationens datorer var baserade på vakuumrör. När John Bardeen, Walter Brattain och William Shockley vid Bell Labs uppfann transistorn 1948, utgjorde detta grunden för den andra generationens datorer.
+
+Den första transistorbaserade datorn var TX-0, som utvecklades vid MITs Lincolnlaboratorium med inspiration från det tidigare MIT-projektet Whirlwind I från 1952. En av ingenjörerna vid laboratoriet, Kenneth Olsen, grundade DEC som 1961 började sälja PDP-1, en kommersiell minidator som liknade TX-0. PDP-1 konkurrerade främst med IBM 7090, en transistorbaserad dator från företaget IBM, som börjat intressera sig för datorer allt mer efter att tidigare ha finansierat Aikens Mark I. PDP-1 hade visserligen bara hälften av prestandan jämfört med IBM 7090, men den kostade också mindre än en tiondel så mycket. Den blev en stor succé och såldes i 50 exemplar. Efterföljaren PDP-8 blev än mer framgångsrik och såldes i 50 000 exemplar.
+
+Integrerade kretsar
+Detta avsnitt är en sammanfattning av Integrerad krets.
+Nästa stora framsteg kom 1958, då Robert Noyce uppfann den integrerade kretsen, vilken medförde ännu effektivare miniatyrisering. Denna era, som pågick fram till 1980-talets början dominerades av IBM System 360, den första standardiserade datorserien med maskiner i olika prestandaklasser. Även DEC:s konkurrerande serie PDP-11 hade stora framgångar, återigen genom att många gånger vara något mindre kraftfull och betydligt billigare än motsvarande IBM-modell.
+
+VLSI, IBM PC och hemdatorerna
+
+Den första IBM PC:n.
+
+En typisk hemdator från sent 1980-tal till tidigt 1990-tal, Macintosh Plus.
+Integreringstrenden fortsatte och vid 1980-talets början hade man nått vad som brukar kallas VLSI (Very Large Scale Integration, "mycket storskalig integrering") med miljontals transistorer på ett integrerat kretskort. Detta gjorde att datorerna började bli tillräckligt små för att användas privat och detta gav upphov till hemdatortrenden. År 1977 släppte Commodore en 8-bitars dator (PET) och ungefär samtidigt släppte Apple sin Apple II. 1981 släppte IBM persondatorn IBM PC med en öppen standard för instickskort och andra komponenter. Några veckor innan släpptes dock en annan PC vid namn Sirius I och som var skapad av Chuck Peddle. IBM PC är dock den dator som blev känd och inom kort växte det fram en industri för tillverkning av vad man kallade IBM PC-kompatibla persondatorer. År 1984 fick denna en konkurrent från Apple (Macintosh 128k) som hade ett för den tiden väldigt lättanvänt grafiskt gränssnitt som ännu har många likheter med moderna operativsystem.
+
+PC
+Uttrycket PC kommer från engelskans personal computer, "persondator". Uttrycket har använts i oförkortad form sedan 1960-talet, men förkortningen blev känd när IBM registrerade och marknadsförde varumärket IBM PC. Specifikationen för denna tidiga hemdator publicerades öppet, och IBM pc-kompatibla datorer blev vanliga. Dessa kom ofta att kallas för enbart PC, så att begreppet idag ofta syftar på en sorts dator vars delar är kompatibla med andra persondatorer. En konkurrerande grupp är den så kallade Mac-familjen, som marknadsförs av företaget Apple. Samtidigt har den mer generella betydelsen persondator bibehållits parallellt.
+
+Datorns uppbyggnad
+
+Delarna i en modern persondator: (1) bildskärm, (2) moderkort, (3) processor, (4) Seriell ATA -portar, (5) arbetsminne, (6) instickskort, (7) nätdel, (8) enhet för läsning/bränning av cd- eller dvd-skivor, (9) hårddisk, (10) tangentbord och (11) mus.
+Även om tekniken i datorerna har förändrats dramatiskt sedan de första på 1940-talet, så används i de allra flesta fall fortfarande den grundläggande struktur som först föreslogs av John von Neumann på 1940-talet.
+
+von Neumann-arkitekturen delar in datorn i fyra huvuddelar: den aritmetiska enheten, styrenheten, minnet och diverse in- och utenheter (I/O-enheter). Aritmetikenheten och styrenheten är numera oftast integrerad i ett chip och kallas processor som förkortas CPU efter engelska Central Processing Unit.
+
+Typer av datorer
+Det finns flera typer av utformning av persondatorer, till exempel tower, skrivbordsdator, bärbar dator och handdator. Tower-modellen är uppbyggd för att datorn ska stå upprätt. Den traditionella skrivbordsdatorn är oftast något mindre i storlek och avsedd att ligga ner med bildskärmen placerad ovanpå. Laptop-modellen, den bärbara datorn, är uppbyggd av en platta med bland annat processorn, hårddisken, arbetsminnet och tangentbord och en annan platta med en skärm – dessa plattor viks ihop mot varann vid transport. Den är avsedd att kunna hållas i knät när man sitter ner. Palmtop var en form av handdator – ofta integrerad i en mobiltelefon.
+
+Stordatorer finns i flera utformningar, från de enskilda datorerna som kan likna ett litet halvhöjds kylskåp till de riktigt stora som kan fylla ett eller flera rum. En server kan sägas vara ett mellanting mellan en stordator och en persondator utan skärm, mus och tangentbord. Ofta kommer en server i ett standardformat som tillåter att många tillsammans monteras i ett stativ (ibland inrymt i ett skåp).
+
+Inbäddade datorer

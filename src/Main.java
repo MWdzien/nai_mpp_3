@@ -1,30 +1,43 @@
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        File trainingDataDir = new File("trainingData/");
-        double learningRate = 0.01;
-        SimpleLayer simplePerceptronLayer = new SimpleLayer();
-        int n = 40;
+        String trainingDataDir = "trainingData/";
+        String testDataDir = "testData/";
+        SimpleLayer simplePerceptronLayer = new SimpleLayer(trainingDataDir);
+        Scanner scanner = new Scanner(System.in);
 
-        for (File languageDir : trainingDataDir.listFiles()){
-            List<DataEntry> trainingFiles = new ArrayList<>();
-            Perceptron languagePerceptron = new Perceptron(languageDir.getName(), learningRate, 26);
+        System.out.println("To check the test data accuracy type in \"test\".\nTo classify your own text type in \"text\".");
+        String resp = scanner.nextLine();
 
-            for (File textFile : languageDir.listFiles()){
-                trainingFiles.add(DataReader.readLanguageFile(textFile, languageDir.getName()));
+        System.out.println("-----------------------------------");
 
-            }
-
-            languagePerceptron.train(trainingFiles, n);
-
-            simplePerceptronLayer.addPerceptron(languagePerceptron);
+        switch (resp){
+            case "test":
+                double correctlyClassified = 0;
+                double testFilesAmount = 0;
+                File testDir = new File(testDataDir);
+                for (File langDir : testDir.listFiles()){
+                    for (File textFile : langDir.listFiles()){
+                        if (simplePerceptronLayer.getOutput(DataReader.readLanguageFile(textFile, textFile.getName())).equals(langDir.getName())){
+                            correctlyClassified++;
+                        }
+                        testFilesAmount++;
+                    }
+                }
+                System.out.println("Program correctly classified " + (int) correctlyClassified + " out of " + (int) testFilesAmount + " test files, which gives " + (correctlyClassified/testFilesAmount)*100 + "% accuracy.");
+                break;
+            case "text":
+                System.out.println("Paste in a text to classify");
+                String text = scanner.next();
+                String out = simplePerceptronLayer.getOutput(DataReader.readText(text));
+                System.out.println("\n-----------------------------------");
+                System.out.println(out);
+                System.out.println("-----------------------------------");
+                break;
         }
-
-        String out = simplePerceptronLayer.getOutput(DataReader.readLanguageFile(new File("testData/Liść.txt"), ""));
-
-        System.out.println(out);
     }
 }

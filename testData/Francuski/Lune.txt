@@ -1,0 +1,87 @@
+La Lunea, ou Terre Ib, est l'unique satellite naturel permanent de la planète Terre. Il s'agit du cinquième plus grand satellite naturel du Système solaire, et du plus grand des satellites planétaires par rapport à la taille de la planète autour de laquelle il orbite. C'est le deuxième satellite le plus dense du Système solaire après Io, un satellite de Jupiterc.
+
+La Lune est en rotation synchrone avec la Terre, lui montrant donc constamment la même face. Celle-ci, appelée face visible, est marquée par des mers lunaires volcaniques sombres qui remplissent les espaces entre les hautes terres claires et ses cratères d'impact proéminents. Réciproquement, elle possède une face cachée, qui présente moins de mers mais beaucoup plus de cratères, dont le bassin Pôle Sud-Aitken, le plus grand du satellite et l'un des plus grands du Système solaire par son diamètre de 2 500 km. Elle est dépourvue d'atmosphère dense et de champ magnétique. Son influence gravitationnelle sur la Terre produit les marées océaniques, les marées terrestres, un léger allongement de la durée du jour et la stabilisation de l'inclinaison de l'axe terrestre.
+
+La distance orbitale moyenne de la Lune est de 384 402 km, soit environ trente fois le diamètre terrestre, et sa période de révolution vaut 27,3 jours. La taille apparente de la Lune dans le ciel est approximativement la même que celle du Soleil, puisque le diamètre de l'étoile est environ 400 fois celui du satellite, mais qu'elle est également 400 fois plus éloignée. Par conséquent, la Lune peut couvrir presque exactement le Soleil dans le ciel, permettant l'apparition d'éclipses solaires totales. Cette correspondance de taille apparente disparaîtra dans un avenir lointain du fait de l'augmentation de la distance lunaire d'environ 3,8 cm par an. La formation de la Lune remonterait à environ 4,51 milliards d'années, peu de temps après celle de la Terre. L'explication la plus largement acceptée est que la Lune s'est formée à partir des débris restants après un impact géant entre une proto-Terre et une protoplanète de la taille de Mars, appelée Théia.
+
+La Lune est survolée pour la première fois par la sonde spatiale Luna 2 en 1959. Durant plus d'une décennie, elle est notamment étudiée par les programmes Luna et Apollo, respectivement soviétique et américain. Cette course à l'espace culmine en 1969 avec les premiers humains posant le pied sur la Lune lors de la mission Apollo 11 emportant Neil Armstrong et Buzz Aldrin. Dix autres astronautes de la NASA foulent ensuite le sol lunaire jusqu'à Apollo 17 en 1972. Ces missions permettent de ramener sur Terre des roches lunaires qui, avec les observations effectuées sur place, permettent de développer la connaissance géologique de la Lune, de sa structure interne et de l'histoire de sa formation. Délaissée à partir de 1974 par les puissances spatiales, l'astre connaît un nouvel intérêt dans les années 1990, deux missions de la NASA — Clementine et Lunar Prospector — découvrant des indices de la présence de glace d'eau, notamment au pôle Sud. À compter de la fin des années 1990, la Lune est la destination principale des sondes spatiales des nouvelles nations spatiales, notamment la Chine, le Japon et l'Inde. De nouvelles missions habitées vers la Lune, voire une colonisation, sont envisagées dans les années 2020.
+
+En sa qualité de deuxième objet céleste du ciel terrestre par sa magnitude apparente, après le Soleil, et du fait de son cycle régulier de phases correspondant à sa période synodique de 29,5 jours, la Lune sert de référence et d'influence culturelle aux sociétés humaines depuis des temps immémoriaux. Celles-ci se retrouvent dans la langue, les calendriers, l'art et la mythologie.
+
+Caractéristiques physiques
+Dimensions et masse
+Article détaillé : Masse de la Lune.
+La Lune est un sphéroïde en raison de l'étirement créé par les forces de marée, son grand axe étant déplacé de 30° par rapport à la Terre en raison d'anomalies gravitationnelles causées par ses bassins d'impact4.
+
+Image de la Lune montrant de nombreuses couleurs, notamment du rouge, du vert et du jaune, des points bleus étant à la place des cratères.
+Carte du champ gravitationnel de la Lune réalisée par le GRAIL5.
+Sa forme est plus allongée que ce que les forces de marée actuelles peuvent expliquer. Ce « renflement fossile » suggère que la Lune s'est solidifiée lorsqu'elle orbitait à une distance moitié moindre de celle actuelle avec la Terre et qu'elle serait à présent trop froide pour que sa forme ne s'adapte à ce changement d'orbite6. Son rayon équatorial est de 1 738,1 km et son rayon polaire de 1 736,0 km, ce qui lui confère un aplatissement de 0,001, trois fois plus faible que celui de la Terre. Son rayon moyen est de 1 737,4 km, ce qui correspond à 27 % du rayon terrestre environ4.
+
+Sa masse étant de 7,346 × 1022 kg, soit un peu plus d'un pour cent de la masse terrestre, la gravité de surface subie sur la Lune est bien plus faible que celle sur Terre : avec 1,62 m/s2, elle est six fois plus petite. Ainsi, même si sa masse reste constante, un être humain sur la Lune voit son poids divisé par six ; de même, porter une combinaison spatiale de 90 kg est équivalent à la sensation de porter une combinaison de 15 kg sur Terre7. Par ailleurs, la vitesse de libération sur la Lune est plus faible que celle de la Terre, à 2,38 km/s contre 11,2 km/s4. Le champ gravitationnel de la Lune est mesuré en suivant l'effet Doppler des signaux radio émis par les appareils en orbite. Les principales caractéristiques de la gravité lunaire sont les réplétions (ou mascons), de grandes anomalies gravitationnelles positives associées à certains des bassins d'impact géants, en partie causées par les coulées de lave basaltique dense qui remplissent les mers lunaires8,9,10. Ces anomalies influencent grandement l'orbite des engins spatiaux autour de la Lune. Cependant, les coulées de lave ne peuvent à elles seules expliquer toute la signature gravitationnelle ; des concentrations de masse indépendantes du volcanisme des mers ont été identifiées9,11.
+
+La Lune vue par le Lunar Reconnaissance Orbiter.
+La face visible montre notamment des mers gris foncé, contrastant avec les terres gris clair.
+Face visible de la Lune.
+ 
+La face cachée n'a presque pas de mers et est de couleur grise presque uniforme, parsemée de plus de cratères.
+Face cachée de la Lune.
+ 
+Le pôle présente de nombreux cratères, certains restant toujours dans l'obscurité.
+Pôle Nord de la Lune.
+ 
+Beaucoup de cratères au pôle Sud, le fond de la plupart étant dans l'ombre.
+Pôle Sud de la Lune.
+Structure interne et composition
+Articles détaillés : Géologie de la Lune, Structure interne de la Lune et Océan magmatique lunaire.
+Image en coupe de la Lune, montrant son petit noyau coloré en rouge et en trois states et son manteau de façon grise uniforme.
+Structure interne de la Lune.
+La Lune est un corps différencié, structuré en une croûte, un manteau et un noyau distincts12. Il s'agit du deuxième satellite naturel le plus dense du Système solaire après Io, un des satellites de Jupiter13,14. Cependant, son noyau (probablement constitué de fer métallique allié à une petite quantité de soufre et de nickel) ne fait qu'environ 350 kilomètres de rayon au plus, soit 20 % du rayon de la Lune15. Les analyses des variations de la rotation de la Lune indiquent qu'il est au moins partiellement fondu et qu'il serait ainsi solide jusqu'à 240 km du centre puis liquide jusqu'à un peu plus de 300 km16,17.
+
+Composition chimique de la surface de la Lune18
+Composant	Formule
+chimique	Composition
+Mers	Terres
+Silice	SiO2	45,4 %	45,5 %
+Alumine	Al2O3	14,9 %	24,0 %
+Oxyde de calcium	CaO	11,8 %	15,9 %
+Oxyde de fer(II)	FeO	14,1 %	5,9 %
+Oxyde de magnésium	MgO	9,2 %	7,5 %
+Oxyde de titane	TiO2	3,9 %	0,6 %
+Oxyde de sodium	Na2O	0,6 %	0,6 %
+99,9 %	100,0 %
+Autour du noyau se trouve une couche limite de roches partiellement fondues jusqu'à environ 500 km du centre19,20. Au-delà de cette couche se trouvent le manteau et la croûte, tous deux formés de roches solides mais de compositions chimiques et minéralogiques différentes. La croûte, épaisse d'environ 50 kilomètres en moyenne, affleure dans les « terres » ; elle est présente aussi dans les « mers », mais recouverte par d'épaisses couches de lave12,15.
+
+
+Image en couleurs saturées de la surface lunaire. Le brun rougeâtre et rouille provient de minerais de fer et le bleuâtre de minerais d'oxyde de titane.
+L'origine de cette structure interne serait la cristallisation fractionnée d'un océan magmatique lunaire peu après la formation de la Lune, évènement qui remonterait à 4,5 milliards d'années environ21. Le refroidissement de cet océan magmatique aurait d'abord produit la précipitation et la sédimentation de cristaux d'olivine, de clinopyroxène et d'orthopyroxène formant un manteau mafique puis, après que les trois quarts environ de l'océan magmatique se sont cristallisés, la formation et la flottation de cristaux de plagioclase sont à l'origine de la croûted,22. Les derniers liquides à cristalliser, pris entre la croûte et le manteau, auraient été fortement enrichis en éléments incompatibles, parmi lesquels des éléments radioactifs KREEP producteurs de chaleur8,15. Cependant, ce modèle n'explique pas complètement les caractéristiques observées de la composition de la surface, notamment des dissymétries de la répartition du thorium entre les faces visibles et cachées23,24.
+
+La cartographie géochimique de la surface lunaire, réalisée à partir des orbiteurs, est en accord avec cette perspective : la surface des hauts plateaux (« terres »), représentative de la croûte, est principalement constituée d'anorthosites, des roches ignées principalement composées de plagioclase25 ; celle des « mers », comme celle des échantillons de roches lunaires recueillis sur place, sont des laves de composition mafique, plus riches en fer que les basaltes terrestres15.
+
+Champ magnétique
+Image en vue de dessus de la surface lunaire, avec des cratères diffus.
+Rimae Sirsalis, une zone lunaire relativement magnétisée26.
+Champ magnétique actuel
+Le magnétomètre MAG et le réflectomètre d’électrons du Lunar Prospector permettent en 2008 d'obtenir la première carte complète des champs magnétiques lunaires27. Elle révèle que les bassins d'impacts dominent la distribution de ces champs, les plus faibles (inférieurs à 0,2 nT) se trouvant dans les bassins les plus grands et les plus récents, Mare Orientale et Mare Imbrium, tandis que les champs les plus forts (supérieurs à 40 nT) sont mesurés au-dessus des surfaces diamétralement opposées à ces mêmes bassins. Les plus forts champs relevés correspondent à moins d'un centième du champ magnétique terrestre27.
+
+Le champ magnétique lunaire est entièrement dû à la magnétisation des roches crustales, et aujourd'hui la Lune ne possède pas de champ magnétique planétaire dipolaire28.
+
+Une partie de la magnétisation peut provenir de champs magnétiques transitoires générés lors d'impacts importants. Ces impacts créent l'expansion d'un nuage de plasma lors de l'impact, générant un champ magnétique ambiant. Ceci est confirmé par l'emplacement apparent des plus grandes magnétisations de la croûte près des antipodes des bassins d'impact géants29. Cependant, la majeure partie de la magnétisation est héritée d'une époque où la Lune possédait un champ magnétique global, à l'instar de la Terre et d'autres planètes.
+
+Histoire du champ magnétique lunaire
+La présence d'un champ magnétique global peu après la formation de la Lune est attestée par l'aimantation rémanente de ses roches les plus anciennes8. L'étude détaillée d'un échantillon de troctolite vieux de 4,25 Ga ramené lors des missions Apollo démontre l'existence d'un paléo-champ d'une intensité de 20 à 40 µT — donc très comparable à celle du champ magnétique terrestre actuel — qui aurait progressivement décliné et qui se serait terminé au moins après il y a 2,5 Ga30. Ce résultat confirme la présence d'un effet dynamo à cette époque, mais ne permet pas d'en connaître précisément le mécanisme (convection thermique ou solutale, notamment)8,31.
+
+Les études paléomagnétiques menées de 2009 à 2014 montrent qu'une dynamo lunaire a fonctionné entre au moins 4,25 et 1,92 Ga et qu'une période de champ élevé (avec une intensité moyenne du champ d'environ 77 μT en surface) a perduré entre 3,85 et 3,56 Ga, suivie d'une baisse de l'intensité de surface jusqu'en dessous de 4 μT vers 3,19 Ga32. Deux études ultérieures, en 201733 et 202028, montrent que la baisse d'un ordre de grandeur des paléointensités lunaires entre 3,56 et 3,19 Ga a été suivie d'une période de champ bas (intensités du champ de surface de l'ordre de 5 μT) puis d'une seconde et dernière période de déclin entre 1,92 et 0,8 Ga, qui s'est terminée par l'arrêt de la dynamo lunaire, signe d'une cristallisation complète du noyau lunaire. Deux hypothèses sont proposées pour expliquer la succession de deux périodes stables, l'une à champ haut et la suivante à champ bas : (1) deux mécanismes de dynamo distincts ont pu fonctionner, le premier générant un champ fort jusqu'à son effondrement et le second maintenant un champ faible, ou bien (2) un unique mécanisme de dynamo était bistable, passant d'un état de champ élevé à un état de champ bas34.
+
+Sélénographie
+Article détaillé : Sélénographie.
+À gauche la face visible, à droite la face cachée. La face visible est surtout colorée en bleu et vert, celle cachée comporte une grosse zone rouge.
+Carte topographique à partir des données du LRO (2010)35.
+La topographie de la Lune, aussi appelée sélénographie, est mesurée par altimétrie laser et stéréoscopie36,37. Son relief le plus visible est le bassin Pôle Sud-Aitken, d'un diamètre d'environ 2 500 km, le plus grand cratère de la Lune et un des plus grands cratères d'impact du Système solaire, dont le choc aurait fait basculer l'axe de rotation de l'astre de 15°8,38,39,40. D'une profondeur de 13 km, son plancher est le point le plus bas de la surface de la Lune38,41. Les altitudes les plus élevées de la surface sont situées directement au nord-est, et il est suggéré que ces reliefs pourraient avoir été épaissis par l'impact légèrement oblique ayant formé le bassin42. D'autres grands bassins d'impact, tels que les mers des Pluies, de la Sérénité, des Crises, Smythii et Orientale, possèdent également des élévations régionales basses et des bords surélevés38. La surface de la face cachée de la Lune est plus haute que celle de la face visible, en moyenne d'environ 1,9 km15.
+
+Modèle insteractif montrant des "pointes" aux endroits escarpés.
+Modèle numérique de terrain en 3D avec une exagération verticale x10.
+La découverte d'escarpements de failles par le Lunar Reconnaissance Orbiter suggère que la Lune s'est rétrécie d'environ 90 mètres au cours du dernier milliard d'années. Des caractéristiques de contraction similaires existent sur Mercure43. Une étude menée en 2019 sur plus de 12 000 images prises par l'orbiteur montre que la Mare Frigoris, un vaste bassin près du Pôle Nord lunaire et supposé géologiquement mort, se craquelle et se déplace. Comme la Lune ne possède pas de plaques tectoniques, son activité tectonique est lente et des fissures se développent au fur et à mesure qu'elle perd de la chaleur interne44.
+
+Système de coordonnées
+Article détaillé : Coordonnées sélénographiques.
+Le point de référence des coordonnées sélénographiques est le petit cratère Mösting A, défini comme ayant les coordonnées (−3,212, −5,211). D'une façon générale, le premier méridien de la Lune correspond au centre du disque lunaire vu depuis la Terre, l'UAI recommandant comme axe la direction moyenne du centre de la Lune au centre de la Terre45,46.

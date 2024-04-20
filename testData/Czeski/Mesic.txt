@@ -1,0 +1,81 @@
+Měsíc je jediná známá přirozená družice Země. Střední vzdálenost Měsíce od Země je 384 403 km. Měsíční rovníkový průměr je 3 476 km, což je víc než čtvrtina průměru zemského. Jeho objem jsou však pouze 2 % zemského a co do hmotnosti je rozdíl ještě větší. Přesto Měsíc patří mezi největší planetární družice (měsíce) v celé Sluneční soustavě (pátý největší) a relativně, tj. vzhledem ke své mateřské planetě, je největší vůbec.
+
+První člověkem vyrobené těleso, které dosáhlo Měsíce, byla v roce 1957 sovětská sonda Luna 2, první snímky odvrácené strany Měsíce získala v roce 1959 sonda Luna 3, první měkké přistání a následný přenos obrazu provedla v roce 1966 sonda Luna 9. Roku 1969 přistáli Neil Armstrong a Edwin Aldrin v rámci programu Apollo jako první lidé na Měsíci, a tím se stali i prvními lidmi, kteří stanuli na povrchu jiného vesmírného tělesa než Země. Celkem Měsíc zatím navštívilo dvanáct lidí.
+
+Pojmenování
+Nemá jiné běžně používané formální jméno než Měsíc. V astronomickém a jiném odborném textu se slovo Měsíc píše s velkým počátečním písmenem. (Píše se tak i v astrologickém textu.) Je to vlastní jméno, patří mezi kosmonyma. Obecné jméno se píše s malým počátečním písmenem – měsíc. (Stejně jako Slunce vs. slunce). Básnicky je měsíc nazýván luna (latinský a zároveň slovanský výraz). Kromě slova lunární se k odkazu na Měsíc užívá – podle jména starořecké bohyně Měsíce Seléné – také kmene selene nebo seleno (selenocentrický, Selenité aj.).
+
+Astronomickým symbolem Měsíce je srpek: ☾
+
+Rotace
+
+90° západně
+
+Přivrácená strana
+
+90° východně
+
+Odvrácená strana
+Měsíc je v synchronní rotaci se Zemí, což znamená, že jedna strana Měsíce („přivrácená strana“) je stále natočena k Zemi. Druhou, „odvrácenou stranu“, z větší části nelze ze Země vidět, kromě malých částí poblíž okraje disku, které mohou být příležitostně spatřeny díky libraci. Většina odvrácené strany byla až do éry kosmických sond zcela neznámá.[3] Tato synchronní rotace je výsledkem slapových sil, které zpomalovaly rotaci Měsíce v jeho rané historii, až došlo k rezonanci oběhu a rotace (vázané rotaci).
+
+Odvrácená strana je občas nazývána také „temnou stranou“. „Temná“ v tomto případě znamená „neznámá a skrytá“ a nikoliv „postrádající světlo“; ve skutečnosti přijímá odvrácená strana v průměru zhruba stejné množství slunečního světla jako přivrácená strana. Kosmická loď na odvrácené straně Měsíce je odříznuta od přímé radiové komunikace se Zemí.
+
+Odlišujícím rysem odvrácené strany je téměř úplná absence tmavých skvrn (oblastí s nízkým albedem), tzv. moří.
+
+Oběh
+Měsíc vykoná kompletní oběh kolem Země jednou za 27,321 582 dne (siderický měsíc). Každou hodinu se Měsíc posune vzhledem ke hvězdám o vzdálenost zhruba rovnou jeho úhlovému průměru, přibližně o 0,5°. Měsíc se liší od většiny satelitů jiných planet tím, že je jeho orbita blízká rovině ekliptiky a nikoliv rovině zemského rovníku.
+
+Některé časové periody svázané s oběhem Měsíce kolem Země jsou podrobněji probrány v následující tabulce. Dva základní jsou: siderický měsíc, což je doba úplného oběhu vzhledem ke hvězdám, trvající asi 27,3 dne a synodický měsíc, což je doba mezi stejnými měsíčními fázemi při pozorování ze Země (například od novu k novu), dlouhá přibližně 29,5 dne. Rozdíl mezi nimi je způsoben tím, že v průběhu oběhu urazí Země i Měsíc určitou vzdálenost na orbitě kolem Slunce.
+
+Gravitační přitažlivost, kterou Měsíc ovlivňuje Zemi, je příčinou slapových jevů, které jsou nejlépe pozorovatelné na střídání mořského přílivu a odlivu. Přílivová vlna je synchronizována s oběhem Měsíce kolem Země. Slapová vzdutí Země způsobená měsíční gravitací se zpožďují za odpovídající polohou Měsíce kvůli odporu oceánského systému – především kvůli setrvačnosti vody a tření, jak se přelévá přes oceánské dno, proniká do zálivů a ústí řek a zase se z nich vrací. Vyjma mořského přílivu a odlivu dochází také ke vzedmutí a poklesu litosférických desek. Následkem toho je část zemského rotačního momentu pozvolna přeměňována do oběhového momentu Měsíce, takže se Měsíc pomalu vzdaluje od Země rychlostí asi 38 mm za rok. Zemský den se vlivem stejných slapových sil zpomaluje o 1,7 milisekundy za století, převážná část tohoto úbytku momentu hybnosti je předána Měsíci.
+
+Synchronnost rotace je přesná pouze v průměru, protože měsíční orbita má jistou výstřednost. Když je Měsíc v perigeu (přízemí), jeho rotace je pomalejší než pohyb po oběžné dráze, což nám umožňuje vidět asi osm stupňů délky z jeho východní (pravé) strany navíc. Na druhou stranu, když se Měsíc dostane do apogea (odzemí), jeho rotace je rychlejší než pohyb po oběžné dráze, což odkrývá dalších osm stupňů délky z jeho západní (levé) strany. To se nazývá optickou librací v délce.
+
+Protože je měsíční orbita nakloněna k zemskému rovníku, Měsíc se zdá oscilovat nahoru a dolů (podobně jako lidská hlava, když pokyvuje na souhlas) při svém pohybu v ekliptikální šířce (deklinaci). Tento jev se nazývá optická librace v šířce a odkrývá pozorovateli z polárních oblastí Měsíce přibližně sedm stupňů šířky.
+
+Na konec, protože je Měsíc vzdálen jen asi 60 zemských poloměrů, pozorovatel na rovníku vidí Měsíc v průběhu noci ze dvou bodů vzdálených od sebe jeden zemský průměr. Tato vlastnost se nazývá optická librace paralaktická a odkrývá asi jeden stupeň měsíční délky.
+
+Země a Měsíc obíhají okolo jejich barycentra nebo obecněji těžiště, které leží asi 4 700 km od zemského středu (asi 3/4 cesty k povrchu). Protože se barycentrum nachází pod povrchem Země, zemský pohyb se dá obecně popsat jako „kolébání“. Podíváme-li se ze zemského severního pólu, Země a Měsíc rotují proti směru hodinových ručiček okolo jejich os; Měsíc obíhá Zemi proti směru hodinových ručiček a Země obíhá Slunce také proti směru hodinových ručiček.
+
+Může vypadat zvláštně, že sklon lunární orbity a vychýlení měsíční osy rotace jsou v přehledu vypsány jako významně se měnící. Zde je třeba poznamenat, že sklon orbity je měřen vzhledem k primární rovníkové rovině (v tomto případě zemské) a vychýlení osy rotace vzhledem k normále vůči rovině orbity satelitu (měsíční). Pro většinu satelitů planet, nikoliv však pro Měsíc, tyto konvence odrážejí fyzikální realitu a jejich hodnoty jsou proto stabilní.
+
+Země a Měsíc formují prakticky „dvojplanetu“: jsou těsněji spjati se Sluncem než jeden s druhým. Rovina měsíční orbity zachovává sklon 5,145 396° vzhledem k ekliptice (orbitální rovině Země) a měsíční osa rotace má stálou výchylku 1,5424° vzhledem k normále na stejnou rovinu. Rovina měsíční orbity vykonává rychlou precesi (tj. její průnik s ekliptikou rotuje ve směru hodinových ručiček) během 6793,5 dnů (18,5996 let), kvůli gravitačnímu vlivu zemské rovníkové deformace. V průběhu této periody se proto zdá, že sklon roviny měsíční orbity kolísá mezi 23,45° + 5,15° = 28,60° a 23,45° −5,15° = 18,30°. Současně se jeví, že výchylka osy měsíční rotace vzhledem k normále na rovinu oběžné dráhy měsíce kolísá mezi 5,15° + 1,54° = 6,69° a 5,15° −1,54° = 3,60°. Za povšimnutí stojí, že výchylka zemské osy také reaguje na tento proces a sama kolísá o 0,002 56° na každou stranu kolem své průměrné hodnoty; tento jev se nazývá nutace.
+
+Body, ve kterých Měsíc protíná ekliptiku se nazývají „lunární uzly“: severní (neboli vzestupný) uzel je tam, kde Měsíc přechází k severu ekliptiky; jižní (neboli sestupný) je tam, kde přechází k jihu. Zatmění Slunce nastává, pokud se uzel střetne s Měsícem v novu; zatmění Měsíce, pokud se uzel střetne s Měsícem v úplňku.
+
+Měsíční intervaly
+Název	Hodnota (dny)	Definice
+siderický	27,321 661 547 + 0,000 000 001 857 · r	Vzhledem ke vzdáleným hvězdám (13,368 průchodů během tropického roku)
+synodický	29,530 588 853 + 0,000 000 002 162 · r	Vzhledem ke Slunci (podle fází Měsíce, 12,368 cyklů za tropický rok)
+tropický	27,321 582 241 + 0,000 000 001 506 · r	Vzhledem k jarnímu bodu (vykonává precesi s periodou ~26 000 a)
+anomalistický	27,554 549 878 − 0,000 000 010 390 · r	Vzhledem k perigeu (vykonává precesi s periodou 3232,6 d = 8,8504 a)
+drakonický	27,212 220 817 + 0,000 000 003 833 · r	Vzhledem k vzestupnému uzlu (vykonává precesi s periodou 6793,5 d = 18,5996 a)
+Jednotlivé měsíční intervaly nejsou konstantní, ale mění se. Intervaly jsou tedy vyjádřeny jako součet oběhové doby a roční odchylky. Hodnoty jsou vyjádřeny ve dnech jako 86 400 sekund podle SI. Tato data jsou platná pro datum 1. ledna 2000 12.00:00. Parametr r určuje počet let od 1. ledna 2000 podle juliánského kalendáře. Siderický měsíční interval platný pro 1. ledna 2010 se tedy vypočítá podle vzorce: 27,321 661 547 + 0,000 000 001 857 · 10.
+
+Další vlastnosti měsíční orbity
+Název	Hodnota (d)
+Metonický cyklus (tatáž fáze na stejném
+místě vzhledem ke vzdáleným hvězdám)	19 let
+Průměrná vzdálenost od Země	~384 403 km
+Vzdálenost v perigeu	~364 397 km
+Vzdálenost v apogeu	~406 731 km
+Průměrná výstřednost	0,0549003 = 3°8'44”
+Perioda regrese uzlů	18,61 let
+Perioda rotace spojnice apsid	8,85 let
+Ekliptický rok	346,6 dnů
+Saros (opakování zatmění)	18 let 10/11 dne
+Průměrný sklon orbity k ekliptice	5°9'
+Průměrný sklon měsíčního rovníku k ekliptice	1°32'
+Původ
+Sklon měsíční dráhy činí možnost, že by se Měsíc vytvořil spolu se Zemí, nebo že by byl zachycen později, dost nepravděpodobnou. Jeho původ je předmětem mnoha vědeckých debat.
+
+Jedna z dřívějších spekulací – teorie odtržení – předpokládala, že se Měsíc odtrhl ze zemské kůry vlivem odstředivé síly, zanechávaje za sebou dnešní oceánské dno jako jizvu. Tento koncept by však vyžadoval příliš rychlou počáteční rotaci Země. Někteří si mysleli, že se Měsíc zformoval jinde a byl zachycen na nynější oběžnou dráhu (teorie zachycení). Vědci však nepředpokládají, že by bylo tak malé těleso, jako je Země, schopno zachytit jiné těleso velikosti Měsíce. Takovou schopnost mají v naší soustavě díky větší gravitaci pouze velké planety (především Jupiter a Saturn).
+
+Další možností je teorie společné akrece, podle níž vznikly Země a Měsíc zhruba ve stejné době z akrečního disku. Tato teorie neumí vysvětlit nedostatek železa na Měsíci. Další předpokládá, že se Měsíc mohl zformovat z úlomků zachycených na oběžné dráze po kolizi asteroidů nebo planetesimál.
+
+V současné době je přijímána teorie velkého impaktu, podle níž Měsíc pochází z vyvrženého materiálu po kolizi formující se žhnoucí Země s planetesimálou velikosti Marsu (pracovně zvanou Theia). Modifikovaná verze této teorie praví, že impaktů mohlo být víc, menších, a Měsíc ve své současné podobě se zformoval až na oběžné dráze.[4]
+
+Určená geologická období Měsíce jsou definována na základě datování různých významných impaktů v měsíční historii a stupně jejich vzájemného překrytu.
+
+Nesymetričnost
+Slapové síly deformovaly dříve žhavý Měsíc do tvaru elipsoidu s jeho hlavní osou 

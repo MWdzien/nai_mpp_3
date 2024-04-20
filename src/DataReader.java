@@ -41,6 +41,25 @@ public class DataReader {
          return new DataEntry(language, lettersProportions);
     }
 
+    public static DataEntry readText(String text){
+        double[] lettersProportions = new double[26];
+        String formattedText = text.toLowerCase().replaceAll("[^a-z]", "");
+
+        for (char i = 'a'; i < 'z' + 1; i++) {
+            int index = i - 'a';
+            lettersProportions[index] = 0.0;
+
+            for (int j = 0; j < formattedText.length(); j++) {
+                if (formattedText.charAt(j) == i){
+                    lettersProportions[index]++;
+                }
+            }
+            lettersProportions[index] /= formattedText.length();
+        }
+
+        return new DataEntry("empty", lettersProportions);
+    }
+
 
     public static List<DataEntry> readFile(String path){
         List<DataEntry> inputs = new ArrayList<>();
