@@ -10,7 +10,7 @@ public class SimpleLayer {
     public SimpleLayer(String trainingDataDir) {
         this.neuralNetwork = new ArrayList<>();
         learningRate = 0.01;
-        n = 20000;
+        n = 100000;
         createPerceptrons(trainingDataDir);
         trainLayer(trainingDataDir);
     }
@@ -20,12 +20,15 @@ public class SimpleLayer {
     }
 
     public String getOutput(DataEntry entry){
+        String maxNetLang = "";
+        double maxNet = 0;
         for (Perceptron perceptron : neuralNetwork){
-            if (perceptron.classify(entry) == 1){
-                return perceptron.getActivationAttribute();
+            if (perceptron.classify(entry) > maxNet){
+                maxNet = perceptron.classify(entry);
+                maxNetLang = perceptron.getActivationAttribute();
             }
         }
-        return "Entry could not be classified";
+        return maxNetLang;
     }
 
     private void createPerceptrons(String trainingDataDir){

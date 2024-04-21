@@ -1,4 +1,7 @@
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -32,7 +35,17 @@ public class Main {
                 break;
             case "text":
                 System.out.println("Paste in a text to classify");
-                String text = scanner.next();
+                String text = "";
+                BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+                String line;
+                try {
+                    while ((line = br.readLine()) != null) {
+                        text += line;
+                        if (line.isEmpty()) break;
+                    }
+                } catch (IOException e ){
+                    e.printStackTrace();
+                }
                 String out = simplePerceptronLayer.getOutput(DataReader.readText(text));
                 System.out.println("\n-----------------------------------");
                 System.out.println(out);

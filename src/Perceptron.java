@@ -16,14 +16,14 @@ public class Perceptron {
     }
 
 
-    public int classify(DataEntry entry){
+    public double classify(DataEntry entry){
         double sum = 0;
 
         for (int i = 0; i < weights.length; i++) {
             sum += entry.getAttributes()[i] * weights[i];
         }
 
-        return sum >= 0 ? 1 : 0;
+        return sum;
     }
 
 
@@ -32,15 +32,19 @@ public class Perceptron {
 
         for (int i = 0; i < n; i++) {
             for (DataEntry entry : entries){
-                int actualDecAttribute = activationAttribute.equals(entry.getDecisionAttribute()) ? 1 : 0;
+                int actualDecAttribute = activationAttribute.equals(entry.getDecisionAttribute()) ? 1 : -1;
 
-                int error = actualDecAttribute - classify(entry);
-                if (error != 0) trained = 0;
+                double error = actualDecAttribute - classify(entry);
+                if (Math.abs(error) <= 0.000001) {
+                    trained++;
+                    break;
+                }
+                trained = 0;
 
                 for (int j = 0; j < weights.length; j++) {
+
                     weights[j] += error * entry.getAttributes()[j] * learningRate;
                 }
-                trained++;
             }
             if (trained >= entries.size()) break;
         }
