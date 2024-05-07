@@ -9,7 +9,7 @@ public class SimpleLayer {
 
     public SimpleLayer(String trainingDataDir) {
         this.neuralNetwork = new ArrayList<>();
-        learningRate = 0.01;
+        learningRate = 0.001;
         n = 100000;
         createPerceptrons(trainingDataDir);
         trainLayer(trainingDataDir);
