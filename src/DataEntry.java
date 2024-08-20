@@ -14,12 +14,4 @@ public class DataEntry {
     public double[] getAttributes() {
         return attributes;
     }
-
-    public void setDecisionAttribute(String decisionAttribute) {
-        this.decisionAttribute = decisionAttribute;
-    }
-
-    public void setAttributes(double[] attributes) {
-        this.attributes = attributes;
-    }
 }
